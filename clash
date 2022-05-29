@@ -1,0 +1,188 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+proxies:
+- {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.10068414.xyz"}},"server":"141.95.33.146","name":"🔑黑洞A_🇫🇷_1","port":"443","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.20884287.xyz"}},"server":"141.95.33.212","name":"🔑黑洞A_🇫🇷_2","port":"443","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.32754213.xyz"}},"server":"142.4.112.60","name":"🔑黑洞A_🇺🇸_3","port":"443","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.55004117.xyz"}},"server":"142.4.120.9","name":"🔑黑洞A_🇺🇸_4","port":"443","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.73345741.xyz"}},"server":"154.84.1.119","name":"🔑黑洞A_🇳🇱_5","port":"443","uuid":"20b30916-e203-412e-8ec0-900f3acd5128","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.73345741.xyz"}},"server":"154.84.1.120","name":"🔑黑洞A_🇳🇱_6","port":"443","uuid":"20b30916-e203-412e-8ec0-900f3acd5128","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.57556953.xyz"}},"server":"154.84.1.195","name":"🔑黑洞A_🇳🇱_7","port":"443","uuid":"65ea6727-4461-47a7-a5c4-fef2c67f2f79","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.49952772.xyz"}},"server":"161.8.149.133","name":"🔑黑洞A_🇺🇸_8","port":"443","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.73683013.xyz"}},"server":"161.8.159.21","name":"🔑黑洞A_🇺🇸_9","port":"443","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.68243541.xyz"}},"server":"185.160.24.48","name":"🔑黑洞A_🇯🇵_10","port":"443","uuid":"a8a7fc23-c6e6-4505-a173-ae67dfb06f28","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.82852918.xyz"}},"server":"198.2.221.164","name":"🔑黑洞A_🇺🇸_11","port":"443","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.95314708.xyz"}},"server":"23.225.213.243","name":"🔑黑洞A_🇺🇸_12","port":"443","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.44441809.xyz"}},"server":"38.34.163.253","name":"🔑黑洞A_🇺🇸_13","port":"443","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.25620881.xyz"}},"server":"38.34.179.126","name":"🔑黑洞A_🇺🇸_14","port":"443","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.50927799.xyz"}},"server":"45.136.119.118","name":"🔑黑洞A_🇺🇸_15","port":"443","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.99932888.xyz"}},"server":"45.158.148.62","name":"🔑黑洞A_🇺🇸_16","port":443,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.07890885.xyz"}},"server":"46.182.107.165","name":"🔑黑洞A_🇳🇱_17","port":"443","uuid":"d3133484-f2bf-4b0c-8d38-f8e645b65687","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.68737987.xyz"}},"server":"46.182.107.45","name":"🔑黑洞A_🇳🇱_18","port":"443","uuid":"fe5f69e7-e183-439b-950b-9661ef0651f2","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.19845465.xyz"}},"server":"46.182.107.67","name":"🔑黑洞A_🇳🇱_19","port":"443","uuid":"078eb24d-8d1d-4fbd-b914-ee58a897a35e","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.98272029.xyz"}},"server":"51.89.2.48","name":"🔑黑洞A_🇬🇧_20","port":"443","uuid":"9f58234c-355b-4065-ae21-d4a63099aba5","alterId":"64","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","ws-opts":{"path":"/path/120208301422","headers":{"host":"www.42528935.xyz"}},"server":"51.89.42.154","name":"🔑黑洞A_🇬🇧_21","port":"443","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":"64","cipher":"auto","network":"ws","tls":true}
+ proxy-groups:
+  - name: 🔰 节点选择
+    type: select
+    proxies:
+      - ♻️ 自动选择
+      - 🎯 全球直连
+      - 🇷🇺 白嫖俄罗斯-翻墙回家
+  - name: ♻️ 自动选择
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    proxies:
+      - 🇷🇺 白嫖俄罗斯-翻墙回家
+  - name: 🎥 NETFLIX
+    type: select
+    proxies:
+      - 🔰 节点选择
+      - ♻️ 自动选择
+      - 🎯 全球直连
+      - 🇷🇺 白嫖俄罗斯-翻墙回家
+  - name: ⛔️ 广告拦截
+    type: select
+    proxies:
+      - 🛑 全球拦截
+      - 🎯 全球直连
+      - 🔰 节点选择
+  - name: 🚫 运营劫持
+    type: select
+    proxies:
+      - 🛑 全球拦截
+      - 🎯 全球直连
+      - 🔰 节点选择
+  - name: 🌍 国外媒体
+    type: select
+    proxies:
+      - 🔰 节点选择
+      - ♻️ 自动选择
+      - 🎯 全球直连
+      - 🇷🇺 白嫖俄罗斯-翻墙回家
+  - name: 🌏 国内媒体
+    type: select
+    proxies:
+      - 🎯 全球直连
+      - 🔰 节点选择
+  - name: Ⓜ️ 微软服务
+    type: select
+    proxies:
+      - 🎯 全球直连
+      - 🔰 节点选择
+      - 🇷🇺 白嫖俄罗斯-翻墙回家
+  - name: 📲 电报信息
+    type: select
+    proxies:
+      - 🔰 节点选择
+      - 🎯 全球直连
+      - 🇷🇺 白嫖俄罗斯-翻墙回家
+  - name: 🍎 苹果服务
+    type: select
+    proxies:
+      - 🔰 节点选择
+      - 🎯 全球直连
+      - ♻️ 自动选择
+      - 🇷🇺 白嫖俄罗斯-翻墙回家
+  - name: 🎯 全球直连
+    type: select
+    proxies:
+      - DIRECT
+  - name: 🛑 全球拦截
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - 🔰 节点选择
+      - 🎯 全球直连
+      - ♻️ 自动选择
+      - 🇷🇺 白嫖俄罗斯-翻墙回家
+rules:
+ - DOMAIN-SUFFIX,local,🎯 全球直连
+ - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
+ - IP-CIDR,10.0.0.0/8,🎯 全球直连,no-resolve
+ - IP-CIDR,172.16.0.0/12,🎯 全球直连,no-resolve
+ - IP-CIDR,127.0.0.0/8,🎯 全球直连,no-resolve
+ - IP-CIDR,100.64.0.0/10,🎯 全球直连,no-resolve
+ - IP-CIDR6,::1/128,🎯 全球直连,no-resolve
+ - IP-CIDR6,fc00::/7,🎯 全球直连,no-resolve
+ - IP-CIDR6,fe80::/10,🎯 全球直连,no-resolve
+ - IP-CIDR6,fd00::/8,🎯 全球直连,no-resolve
+ - DOMAIN-KEYWORD,1drv,Ⓜ️ 微软服务
+ - DOMAIN-KEYWORD,microsoft,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,aadrm.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,acompli.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,acompli.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,aka.ms,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,akadns.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,aspnetcdn.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,assets-yammer.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,azure.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,azure.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,azureedge.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,azurerms.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,bing.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,cloudapp.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,cloudappsecurity.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,edgesuite.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,gfx.ms,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,hotmail.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,live.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,live.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,lync.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,msappproxy.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,msauth.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,msauthimages.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,msecnd.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,msedge.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,msft.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,msftauth.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,msftauthimages.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,msftidentity.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,msidentity.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,msn.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,msocdn.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,msocsp.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,mstea.ms,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,o365weve.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,oaspapps.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,office.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,office.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,office365.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,officeppe.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,omniroot.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,onedrive.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,onenote.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,onenote.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,onestore.ms,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,outlook.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,outlookmobile.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,phonefactor.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,public-trust.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,sfbassets.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,sfx.ms,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,sharepoint.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,sharepointonline.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,skype.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,skypeassets.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,skypeforbusiness.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,staffhub.ms,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,svc.ms,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,sway-cdn.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,sway-extensions.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,sway.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,trafficmanager.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,uservoice.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,virtualearth.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,visualstudio.com,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,windows-ppe.net,Ⓜ️ 微软服务
+ - DOMAIN-SUFFIX,windows.com,Ⓜ️ 微软服务
+ - 
